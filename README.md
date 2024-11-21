@@ -1,2 +1,3 @@
 ## Single Page CV - Shrihari Magar
-### URL - https://eternoseeker.github.io/single-page-cv/
+### Project Page - https://roadmap.sh/projects/single-page-cv
+### Site URL - https://eternoseeker.github.io/single-page-cv/
